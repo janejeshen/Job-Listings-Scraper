@@ -6,7 +6,7 @@
     "database": {
         "host" : "localhost",
         "user" : "root" ,
-        "password": "Njugunajane550",
+        "password": "password",
         "database" : "job_listings"
     }
 }
