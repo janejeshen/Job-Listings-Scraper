@@ -1,0 +1,12 @@
+{
+    "job_portal": ["LinkedIn"],
+    "job_title": ["data scientist", "machine learning engineer", "data analyst","data engineer"],
+    "location" : ["kenya","united states","united kingdom"],
+    "companies" : ["any"],
+    "database": {
+        "host" : "localhost",
+        "user" : "root" ,
+        "password": "Njugunajane550",
+        "database" : "job_listings"
+    }
+}
